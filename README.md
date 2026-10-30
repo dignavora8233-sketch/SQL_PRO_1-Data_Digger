@@ -216,6 +216,11 @@ Possible enhancements for this project include:
 - 🚚 Add order-status tracking.
 - 🧪 Add more sample records and test queries.
 
+##🎥 Explanation Video:
+
+https://drive.google.com/file/d/1twc-FY58osGwtWg0S35p0Uy_B6D6a37J/view?usp=sharing
+
+
 ## 🎯 Learning Outcomes
 
 By completing this project, learners can practice designing a relational database, connecting tables with foreign keys, writing SQL queries, managing records, and performing basic sales analysis.
